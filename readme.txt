@@ -1,4 +1,6 @@
 bonjour
 
+Je suis blabla
+je test test test  git
 
-je suis git
+ce fichier va etre en conflit lors du merge
