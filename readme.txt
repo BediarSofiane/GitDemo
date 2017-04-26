@@ -1,4 +1,6 @@
 bonjour
 
+j'ai effectué des changements
+je dans git
 
-je suis git
+ce fichier
